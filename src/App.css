@@ -1,0 +1,23 @@
+#btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+
+button {
+    color: aqua;
+    background-color: aqua;
+    color: black;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    margin-top: 100px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
